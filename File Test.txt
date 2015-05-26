@@ -4,5 +4,10 @@ cau thu thay doi thong tin trong file nay nha..
 Tu:cau thu thay doi thong tin trong file nay 
 Huyen: to thay doi day roi nay 
 Tu: th?t s? t? v?n chýa hi?u cõ ch? làm vi?c c?a github cho l?m..:)
+<<<<<<< HEAD
 Tu: Test github
+=======
+Huyen:Thu lai xem cau nhe .Calm Down ! :) 
+
+>>>>>>> origin/master
 >>>>>>> origin/master
