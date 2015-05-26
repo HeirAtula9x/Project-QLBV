@@ -9,5 +9,6 @@ Tu: Test github
 =======
 Huyen:Thu lai xem cau nhe .Calm Down ! :) 
 
+Test 1
 >>>>>>> origin/master
 >>>>>>> origin/master
